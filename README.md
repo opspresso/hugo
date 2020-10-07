@@ -12,11 +12,11 @@ docker pull opspresso/hugo
 ## version
 
 ```
-ENV VERSION v0.76.1
+ENV VERSION v0.76.2
 ```
 
 ## latest
 
 ```
-ENV LATEST v0.76.1
+ENV LATEST v0.76.2
 ```
